@@ -1,0 +1,5 @@
+1. Download the XLSX file from the link provided by the company.
+2. Convert the downloaded XLSX file to JSON format for easier data manipulation and save the result as 'data.json'.
+3. Implement three separate functions: Question1(), Question2(), and Question3() to handle specific data analysis tasks.
+4. Take user input from the console for any of the que  and execute the corresponding question using a switch case.
+5. Save the output of each question as a text (.txt) file with the name 'Question${QuestionNumber}.txt'.
